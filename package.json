@@ -9,6 +9,8 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@tibnor/openbridge-webcomponents": "^0.0.1",
+    "@tibnor/openbridge-webcomponents-vue": "^0.0.1",
     "vue": "^3.3.11"
   },
   "devDependencies": {
